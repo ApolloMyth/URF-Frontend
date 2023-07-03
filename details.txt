@@ -1,0 +1,9 @@
+------------- Github -------------------------
+https://github.com/crystal-jewel/URF-Frontend.git
+
+------------- Figma -------------------------
+https://www.figma.com/file/FEzLsTDYk1mL7LZV98Ekfh/United-Sprint-1?type=design&node-id=113-3549&t=mEt5zxodxrs66ycM-0
+https://www.figma.com/file/8l9PWaBuhYCdunPG9lvqSp/Sprint-2?type=design&node-id=310-4884&t=4Lr1cQCByiRj9hwK-0
+
+------------- API ------------------------------------------------
+https://united-crew-payments.stoplight.io/docs/api/5ca39ad4742c3-get-me-information
